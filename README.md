@@ -1,5 +1,5 @@
 # bootcamp-aws-dio-projeto1
-Repositório feito para o primeiro projeto do bootcamp AWS da DIO
+Repositório feito para o primeiro projeto do bootcamp AWS da DIO, IaC para criação de pastas, usuários, grupos e permissões.
 <br/>
 
 ## Reports:
