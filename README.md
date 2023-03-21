@@ -3,7 +3,7 @@ Repositório feito para o primeiro projeto do bootcamp AWS da DIO, IaC para cria
 <br/>
 
 ### Reports:
-em minha execução pelo ubuntu 20.04 no docker, o código chegou ao final da execução mas surgiu uma mensagem de erro, mas o código está idêntico ao do professor.
+Em minha execução pelo ubuntu 20.04 no docker, o código chegou ao final da execução mas surgiu uma mensagem de erro, mas o código está idêntico ao do professor.
 "passwd: Unknown option: -crypt
 passwd: Use -help for summary."
 
