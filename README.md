@@ -2,7 +2,7 @@
 Repositório feito para o primeiro projeto do bootcamp AWS da DIO, IaC para criação de pastas, usuários, grupos e permissões.
 <br/>
 
-### Reports:
+### Reports
 Em minha execução pelo ubuntu 20.04 no docker, o código chegou ao final da execução mas surgiu a mensagem de erro: "passwd: Unknown option: -crypt
 passwd: Use -help for summary.", mas o código está idêntico ao demonstrado pelo professor.
 
