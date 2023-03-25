@@ -1,5 +1,4 @@
 # Projeto 2 - Bootcamp AWS DIO
-<br/>
 
 ## Descrição do Desafio
 
