@@ -1,6 +1,6 @@
 # Projeto 2 - Bootcamp AWS DIO
 <br/>
-##Descrição do Desafio
+## Descrição do Desafio
 
 Neste projeto iremos criar um script onde será provisionado um servidor web automaticamente. 
 Um servidor web é um software e hardware que usa HTTP (Hypertext Transfer Protocol) e outros
