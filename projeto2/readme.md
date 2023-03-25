@@ -1,5 +1,6 @@
 # Projeto 2 - Bootcamp AWS DIO
 <br/>
+
 ## Descrição do Desafio
 
 Neste projeto iremos criar um script onde será provisionado um servidor web automaticamente. 
